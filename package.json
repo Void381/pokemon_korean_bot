@@ -1,0 +1,21 @@
+{
+  "name": "pokemonbot",
+  "version": "0.0.1",
+  "description": "This is pokemon bot that send various information",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "None"
+  },
+  "keywords": [
+    "Pokemon"
+  ],
+  "author": "iant",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.3.1"
+  }
+}

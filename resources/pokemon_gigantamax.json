@@ -1,0 +1,41 @@
+[
+    {
+        "id": 2001,
+        "name": "거다이맥스 이상해꽃",
+        "type": ["풀", "독"],
+        "height": 24,
+        "captureRate": 45,
+        "eggStep": 5120,
+        "maxExp": "Medium Slow",
+        "stats": [80, 82, 83, 100, 100, 80],
+        "ability": ["심록", "심록", "엽록소"],
+        "gigantaMove": "거다이편달",
+        "picture": "https://iant.kr/pokemon/3g.png"
+    },
+    {
+        "id": 2002,
+        "name": "거다이맥스 리자몽",
+        "type": ["불꽃", "비행"],
+        "height": 28,
+        "captureRate": 45,
+        "eggStep": 5120,
+        "maxExp": "Medium Slow",
+        "stats": [78, 84, 78, 109, 85, 100],
+        "ability": ["맹화", "맹화", "선파워"],
+        "gigantaMove": "거다이옥염",
+        "picture": "https://iant.kr/pokemon/6g.png"
+    },
+    {
+        "id": 2003,
+        "name": "거다이맥스 거북왕",
+        "type": ["물"],
+        "height": 25,
+        "captureRate": 45,
+        "eggStep": 5120,
+        "maxExp": "Medium Slow",
+        "stats": [79, 83, 100, 85, 105, 78],
+        "ability": ["급류", "급류", "젖은접시"],
+        "gigantaMove": "거다이포격",
+        "picture": "https://iant.kr/pokemon/9g.png"
+    }
+]
